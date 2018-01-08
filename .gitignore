@@ -1,0 +1,8 @@
+*.cfg
+*.weights
+*.txt
+*.png
+*.jpg
+*.data
+darknet
+data/
