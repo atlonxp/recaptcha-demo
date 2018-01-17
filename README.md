@@ -30,9 +30,10 @@ Usage
 ```python
 python demo.py
 ```
+![alt text](./recaptcha.png "Demonstration")
 
 TODO
 ------------------
 * Implement the server-client version so that the model loading only needs to be done once at the begining.
-* Shrink the boundary box
 * Repeat training procudure
+* Simple shrink the boundary box by 20%. It works, but has space to be improved.

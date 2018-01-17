@@ -2,6 +2,7 @@
 *.weights
 *.txt
 *.png
+!recaptcha.png
 *.jpg
 *.data
 darknet
